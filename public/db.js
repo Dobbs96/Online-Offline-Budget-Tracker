@@ -20,3 +20,8 @@ request.onsuccess = function (event) {
     checkDatabase();
   }
 };
+
+request.onerror = function (event) {
+  // log error here
+  console.log("There was an error!");
+};
