@@ -2,6 +2,7 @@
 
 ## Description
 
+In this budget tracker you will be able to enter deposits and expenses not only online, but offline. Once you enter any offline data this tracker will add all your offline data to the online data as soon as you get online.
 Check out the [live app](**live link**)
 
 ## Licensing
@@ -13,7 +14,6 @@ For more information please check [GitHub Licensing](https://docs.github.com/en/
 ## Table of Contents
 
 - [Tests](#tests)
-- [Acceptance Criteria](#acceptance-criteria)
 - [Usage](#usage)
 - [Resources](#resources)
 - [Questions](#questions)
@@ -23,8 +23,6 @@ For more information please check [GitHub Licensing](https://docs.github.com/en/
 ![Quick show of app](./assets/example.gif)
 
 [Full video demo](https://drive.google.com/file/d/12xYwHamyaU7GA9poxttJm9AGY3_mmUrY/view)
-
-## Acceptance Criteria
 
 ## Usage
 
