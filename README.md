@@ -3,6 +3,9 @@
 ## Description
 
 In this budget tracker you will be able to enter deposits and expenses not only online, but offline. Once you enter any offline data this tracker will add all your offline data to the online data as soon as you get online.
+
+I have worked on the backend to help create the ablity to work offline.
+
 Check out the [live app](**live link**)
 
 ## Licensing
