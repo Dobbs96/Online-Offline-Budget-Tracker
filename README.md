@@ -6,7 +6,7 @@ In this budget tracker you will be able to enter deposits and expenses not only 
 
 I have worked on the backend to help create the ablity to work offline.
 
-Check out the [live app](**live link**)
+Check out the [live app](https://tracking-budget-everywhere.herokuapp.com/)
 
 ## Licensing
 
