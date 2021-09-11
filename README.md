@@ -23,9 +23,9 @@ For more information please check [GitHub Licensing](https://docs.github.com/en/
 
 ## Tests
 
-![Quick show of app](./assets/example.gif)
+![Quick show of app](./assets/gif.gif)
 
-[Full video demo](https://drive.google.com/file/d/12xYwHamyaU7GA9poxttJm9AGY3_mmUrY/view)
+[Full video demo](https://drive.google.com/file/d/15BfIklOSzW91AzbwLay8P9urNT4Z1uBk/view)
 
 ## Usage
 
@@ -36,6 +36,8 @@ For more information please check [GitHub Licensing](https://docs.github.com/en/
 - Robo 3T
 
 ## Resources
+
+- [MDN IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
 
 ## Questions
 
