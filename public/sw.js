@@ -8,6 +8,7 @@ const FILES_TO_CACHE = [
   "/index.js",
   "/manifest.webmanifest",
   "/styles.css",
+  "/sw.js",
   "/icons/icon-155x155.png",
   "/icons/icon-192x192.png",
   "/icons/icon-512x512.png",
