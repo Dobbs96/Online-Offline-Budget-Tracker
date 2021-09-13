@@ -35,6 +35,8 @@ For more information please check [GitHub Licensing](https://docs.github.com/en/
 - nodemon
 - Robo 3T
 
+To download PWA click the download icon to the far right in the URL.
+
 ## Resources
 
 - [MDN IndexedDB](https://developer.mozilla.org/en-US/docs/Web/API/IndexedDB_API)
